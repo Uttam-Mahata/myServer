@@ -1,0 +1,356 @@
+[2025-04-24 12:04:02] [INFO] Thread pool created with 16 threads
+[2025-04-24 12:04:02] [INFO] Starting server on port 8080 with document root './www'
+[2025-04-24 12:04:02] [INFO] Server started on port 8080
+[2025-04-24 12:05:27] [INFO] Shutdown signal received, stopping server...
+[2025-04-24 12:05:27] [INFO] Thread pool destroyed
+[2025-04-24 12:08:21] [INFO] Thread pool created with 16 threads
+[2025-04-24 12:08:21] [DEBUG] Server socket created successfully with fd 4
+[2025-04-24 12:08:21] [DEBUG] Attempting to bind to 0.0.0.0:8080
+[2025-04-24 12:08:21] [DEBUG] Successfully bound to port 8080
+[2025-04-24 12:08:21] [DEBUG] Setting socket to listen mode with backlog 128
+[2025-04-24 12:08:21] [DEBUG] Socket in listen mode, ready to accept connections
+[2025-04-24 12:08:21] [INFO] Starting server on port 8080 with document root './www'
+[2025-04-24 12:08:21] [INFO] Server started on port 8080
+[2025-04-24 12:08:21] [DEBUG] Waiting for connections on socket 4
+[2025-04-24 12:08:21] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:08:29] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:39416
+[2025-04-24 12:08:29] [DEBUG] Task created and added to thread pool for client 127.0.0.1:39416
+[2025-04-24 12:08:29] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:08:29] [DEBUG] Handling client 127.0.0.1:39416
+[2025-04-24 12:08:29] [DEBUG] Error parsing request from 127.0.0.1:39416
+[2025-04-24 12:08:30] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:39432
+[2025-04-24 12:08:30] [DEBUG] Task created and added to thread pool for client 127.0.0.1:39432
+[2025-04-24 12:08:30] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:08:30] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:39444
+[2025-04-24 12:08:30] [DEBUG] Task created and added to thread pool for client 127.0.0.1:39444
+[2025-04-24 12:08:30] [DEBUG] Handling client 127.0.0.1:39432
+[2025-04-24 12:08:30] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:08:30] [DEBUG] Handling client 127.0.0.1:39444
+[2025-04-24 12:08:30] [DEBUG] Error parsing request from 127.0.0.1:39444
+[2025-04-24 12:08:30] [DEBUG] Error parsing request from 127.0.0.1:39432
+[2025-04-24 12:08:31] [INFO] New connection accepted: client_socket=7 from 127.0.0.1:39460
+[2025-04-24 12:08:31] [DEBUG] Task created and added to thread pool for client 127.0.0.1:39460
+[2025-04-24 12:08:31] [DEBUG] Handling client 127.0.0.1:39460
+[2025-04-24 12:08:31] [DEBUG] Parsed GET request for /app/
+[2025-04-24 12:08:31] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:08:31] [DEBUG] Error parsing request from 127.0.0.1:39460
+[2025-04-24 12:08:31] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:39476
+[2025-04-24 12:08:31] [DEBUG] Task created and added to thread pool for client 127.0.0.1:39476
+[2025-04-24 12:08:31] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:08:31] [DEBUG] Handling client 127.0.0.1:39476
+[2025-04-24 12:08:31] [DEBUG] Error parsing request from 127.0.0.1:39476
+[2025-04-24 12:08:31] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:39492
+[2025-04-24 12:08:31] [DEBUG] Task created and added to thread pool for client 127.0.0.1:39492
+[2025-04-24 12:08:31] [DEBUG] Handling client 127.0.0.1:39492
+[2025-04-24 12:08:31] [DEBUG] Error parsing request from 127.0.0.1:39492
+[2025-04-24 12:08:31] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:08:31] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:39496
+[2025-04-24 12:08:31] [DEBUG] Task created and added to thread pool for client 127.0.0.1:39496
+[2025-04-24 12:08:31] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:08:31] [DEBUG] Handling client 127.0.0.1:39496
+[2025-04-24 12:08:31] [DEBUG] Parsed GET request for /app/css/style.css
+[2025-04-24 12:08:31] [DEBUG] Error parsing request from 127.0.0.1:39496
+[2025-04-24 12:08:31] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:39498
+[2025-04-24 12:08:31] [DEBUG] Task created and added to thread pool for client 127.0.0.1:39498
+[2025-04-24 12:08:31] [DEBUG] Handling client 127.0.0.1:39498
+[2025-04-24 12:08:31] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:08:31] [DEBUG] Error parsing request from 127.0.0.1:39498
+[2025-04-24 12:08:31] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:39502
+[2025-04-24 12:08:31] [DEBUG] Task created and added to thread pool for client 127.0.0.1:39502
+[2025-04-24 12:08:31] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:08:31] [DEBUG] Handling client 127.0.0.1:39502
+[2025-04-24 12:08:31] [DEBUG] Parsed GET request for /favicon.ico
+[2025-04-24 12:08:31] [DEBUG] Error parsing request from 127.0.0.1:39502
+[2025-04-24 12:09:03] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:49236
+[2025-04-24 12:09:03] [DEBUG] Task created and added to thread pool for client 127.0.0.1:49236
+[2025-04-24 12:09:03] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:09:03] [DEBUG] Handling client 127.0.0.1:49236
+[2025-04-24 12:09:03] [DEBUG] Parsed GET request for /
+[2025-04-24 12:09:32] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:40192
+[2025-04-24 12:09:32] [DEBUG] Task created and added to thread pool for client 127.0.0.1:40192
+[2025-04-24 12:09:32] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:09:32] [DEBUG] Handling client 127.0.0.1:40192
+[2025-04-24 12:09:32] [DEBUG] Parsed GET request for /app/
+[2025-04-24 12:10:11] [INFO] Thread pool created with 16 threads
+[2025-04-24 12:10:11] [DEBUG] Server socket created successfully with fd 4
+[2025-04-24 12:10:11] [DEBUG] Attempting to bind to 0.0.0.0:8080
+[2025-04-24 12:10:11] [ERROR] Failed to bind to port 8080: Address already in use
+[2025-04-24 12:10:11] [ERROR] Failed to initialize server
+[2025-04-24 12:10:23] [INFO] Thread pool created with 16 threads
+[2025-04-24 12:10:23] [DEBUG] Server socket created successfully with fd 4
+[2025-04-24 12:10:23] [DEBUG] Attempting to bind to 0.0.0.0:8080
+[2025-04-24 12:10:23] [DEBUG] Successfully bound to port 8080
+[2025-04-24 12:10:23] [DEBUG] Setting socket to listen mode with backlog 128
+[2025-04-24 12:10:23] [DEBUG] Socket in listen mode, ready to accept connections
+[2025-04-24 12:10:23] [INFO] Starting server on port 8080 with document root './www'
+[2025-04-24 12:10:23] [INFO] Server started on port 8080
+[2025-04-24 12:10:23] [DEBUG] Waiting for connections on socket 4
+[2025-04-24 12:10:23] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:27] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:36314
+[2025-04-24 12:10:27] [DEBUG] Task created and added to thread pool for client 127.0.0.1:36314
+[2025-04-24 12:10:27] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:27] [DEBUG] Handling client 127.0.0.1:36314
+[2025-04-24 12:10:27] [DEBUG] Parsed GET request for /app/
+[2025-04-24 12:10:27] [DEBUG] Error parsing request from 127.0.0.1:36314
+[2025-04-24 12:10:27] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:36324
+[2025-04-24 12:10:27] [DEBUG] Task created and added to thread pool for client 127.0.0.1:36324
+[2025-04-24 12:10:27] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:27] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:36328
+[2025-04-24 12:10:27] [DEBUG] Task created and added to thread pool for client 127.0.0.1:36328
+[2025-04-24 12:10:27] [DEBUG] Handling client 127.0.0.1:36324
+[2025-04-24 12:10:27] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:27] [DEBUG] Error parsing request from 127.0.0.1:36324
+[2025-04-24 12:10:27] [DEBUG] Handling client 127.0.0.1:36328
+[2025-04-24 12:10:27] [DEBUG] Error parsing request from 127.0.0.1:36328
+[2025-04-24 12:10:27] [INFO] New connection accepted: client_socket=7 from 127.0.0.1:36330
+[2025-04-24 12:10:27] [DEBUG] Task created and added to thread pool for client 127.0.0.1:36330
+[2025-04-24 12:10:27] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:27] [DEBUG] Handling client 127.0.0.1:36330
+[2025-04-24 12:10:27] [DEBUG] Error parsing request from 127.0.0.1:36330
+[2025-04-24 12:10:27] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:36336
+[2025-04-24 12:10:27] [DEBUG] Task created and added to thread pool for client 127.0.0.1:36336
+[2025-04-24 12:10:27] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:27] [DEBUG] Handling client 127.0.0.1:36336
+[2025-04-24 12:10:27] [DEBUG] Error parsing request from 127.0.0.1:36336
+[2025-04-24 12:10:29] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:36338
+[2025-04-24 12:10:29] [DEBUG] Task created and added to thread pool for client 127.0.0.1:36338
+[2025-04-24 12:10:29] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:29] [DEBUG] Handling client 127.0.0.1:36338
+[2025-04-24 12:10:29] [DEBUG] Parsed GET request for /app/
+[2025-04-24 12:10:29] [DEBUG] Error parsing request from 127.0.0.1:36338
+[2025-04-24 12:10:29] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:36352
+[2025-04-24 12:10:29] [DEBUG] Task created and added to thread pool for client 127.0.0.1:36352
+[2025-04-24 12:10:29] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:29] [DEBUG] Handling client 127.0.0.1:36352
+[2025-04-24 12:10:29] [DEBUG] Error parsing request from 127.0.0.1:36352
+[2025-04-24 12:10:29] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:36358
+[2025-04-24 12:10:29] [DEBUG] Task created and added to thread pool for client 127.0.0.1:36358
+[2025-04-24 12:10:29] [DEBUG] Handling client 127.0.0.1:36358
+[2025-04-24 12:10:29] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:29] [DEBUG] Error parsing request from 127.0.0.1:36358
+[2025-04-24 12:10:29] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:36368
+[2025-04-24 12:10:29] [DEBUG] Task created and added to thread pool for client 127.0.0.1:36368
+[2025-04-24 12:10:29] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:29] [DEBUG] Handling client 127.0.0.1:36368
+[2025-04-24 12:10:29] [DEBUG] Error parsing request from 127.0.0.1:36368
+[2025-04-24 12:10:45] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:53946
+[2025-04-24 12:10:45] [DEBUG] Task created and added to thread pool for client 127.0.0.1:53946
+[2025-04-24 12:10:45] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:45] [DEBUG] Handling client 127.0.0.1:53946
+[2025-04-24 12:10:45] [DEBUG] Parsed GET request for /app/
+[2025-04-24 12:10:45] [DEBUG] Error parsing request from 127.0.0.1:53946
+[2025-04-24 12:10:45] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:53962
+[2025-04-24 12:10:45] [DEBUG] Task created and added to thread pool for client 127.0.0.1:53962
+[2025-04-24 12:10:45] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:45] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:53976
+[2025-04-24 12:10:45] [DEBUG] Task created and added to thread pool for client 127.0.0.1:53976
+[2025-04-24 12:10:45] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:45] [DEBUG] Handling client 127.0.0.1:53962
+[2025-04-24 12:10:45] [DEBUG] Error parsing request from 127.0.0.1:53962
+[2025-04-24 12:10:45] [DEBUG] Handling client 127.0.0.1:53976
+[2025-04-24 12:10:45] [DEBUG] Error parsing request from 127.0.0.1:53976
+[2025-04-24 12:10:46] [INFO] New connection accepted: client_socket=7 from 127.0.0.1:53986
+[2025-04-24 12:10:46] [DEBUG] Task created and added to thread pool for client 127.0.0.1:53986
+[2025-04-24 12:10:46] [DEBUG] Handling client 127.0.0.1:53986
+[2025-04-24 12:10:46] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:46] [DEBUG] Error parsing request from 127.0.0.1:53986
+[2025-04-24 12:10:46] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:54002
+[2025-04-24 12:10:46] [DEBUG] Task created and added to thread pool for client 127.0.0.1:54002
+[2025-04-24 12:10:46] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:46] [DEBUG] Handling client 127.0.0.1:54002
+[2025-04-24 12:10:46] [DEBUG] Error parsing request from 127.0.0.1:54002
+[2025-04-24 12:10:46] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:34738
+[2025-04-24 12:10:46] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34738
+[2025-04-24 12:10:46] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:46] [DEBUG] Handling client 127.0.0.1:34738
+[2025-04-24 12:10:46] [DEBUG] Parsed GET request for /app/
+[2025-04-24 12:10:46] [DEBUG] Error parsing request from 127.0.0.1:34738
+[2025-04-24 12:10:46] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:34754
+[2025-04-24 12:10:46] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34754
+[2025-04-24 12:10:46] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:46] [DEBUG] Handling client 127.0.0.1:34754
+[2025-04-24 12:10:46] [DEBUG] Error parsing request from 127.0.0.1:34754
+[2025-04-24 12:10:46] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:34758
+[2025-04-24 12:10:46] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34758
+[2025-04-24 12:10:46] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:46] [DEBUG] Handling client 127.0.0.1:34758
+[2025-04-24 12:10:46] [DEBUG] Error parsing request from 127.0.0.1:34758
+[2025-04-24 12:10:46] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:34768
+[2025-04-24 12:10:46] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34768
+[2025-04-24 12:10:46] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:46] [DEBUG] Handling client 127.0.0.1:34768
+[2025-04-24 12:10:46] [DEBUG] Error parsing request from 127.0.0.1:34768
+[2025-04-24 12:10:47] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:34774
+[2025-04-24 12:10:47] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34774
+[2025-04-24 12:10:47] [DEBUG] Handling client 127.0.0.1:34774
+[2025-04-24 12:10:47] [DEBUG] Error parsing request from 127.0.0.1:34774
+[2025-04-24 12:10:47] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:47] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:34778
+[2025-04-24 12:10:47] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34778
+[2025-04-24 12:10:47] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:47] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:34780
+[2025-04-24 12:10:47] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34780
+[2025-04-24 12:10:47] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:47] [DEBUG] Handling client 127.0.0.1:34778
+[2025-04-24 12:10:47] [DEBUG] Handling client 127.0.0.1:34780
+[2025-04-24 12:10:47] [DEBUG] Error parsing request from 127.0.0.1:34778
+[2025-04-24 12:10:47] [DEBUG] Error parsing request from 127.0.0.1:34780
+[2025-04-24 12:10:47] [INFO] New connection accepted: client_socket=7 from 127.0.0.1:34786
+[2025-04-24 12:10:47] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34786
+[2025-04-24 12:10:47] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:47] [DEBUG] Handling client 127.0.0.1:34786
+[2025-04-24 12:10:47] [DEBUG] Error parsing request from 127.0.0.1:34786
+[2025-04-24 12:10:47] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:34802
+[2025-04-24 12:10:47] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34802
+[2025-04-24 12:10:47] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:47] [DEBUG] Handling client 127.0.0.1:34802
+[2025-04-24 12:10:47] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:34812
+[2025-04-24 12:10:47] [DEBUG] Error parsing request from 127.0.0.1:34802
+[2025-04-24 12:10:47] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34812
+[2025-04-24 12:10:47] [DEBUG] Handling client 127.0.0.1:34812
+[2025-04-24 12:10:47] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:47] [DEBUG] Error parsing request from 127.0.0.1:34812
+[2025-04-24 12:10:48] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:34820
+[2025-04-24 12:10:48] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34820
+[2025-04-24 12:10:48] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:48] [DEBUG] Handling client 127.0.0.1:34820
+[2025-04-24 12:10:48] [DEBUG] Error parsing request from 127.0.0.1:34820
+[2025-04-24 12:10:48] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:34824
+[2025-04-24 12:10:48] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34824
+[2025-04-24 12:10:48] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:48] [DEBUG] Handling client 127.0.0.1:34824
+[2025-04-24 12:10:48] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:34826
+[2025-04-24 12:10:48] [DEBUG] Error parsing request from 127.0.0.1:34824
+[2025-04-24 12:10:48] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34826
+[2025-04-24 12:10:48] [DEBUG] Handling client 127.0.0.1:34826
+[2025-04-24 12:10:48] [DEBUG] Error parsing request from 127.0.0.1:34826
+[2025-04-24 12:10:48] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:49] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:34838
+[2025-04-24 12:10:49] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34838
+[2025-04-24 12:10:49] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:49] [DEBUG] Handling client 127.0.0.1:34838
+[2025-04-24 12:10:49] [DEBUG] Error parsing request from 127.0.0.1:34838
+[2025-04-24 12:10:49] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:34846
+[2025-04-24 12:10:49] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34846
+[2025-04-24 12:10:49] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:49] [DEBUG] Handling client 127.0.0.1:34846
+[2025-04-24 12:10:49] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:34858
+[2025-04-24 12:10:49] [DEBUG] Error parsing request from 127.0.0.1:34846
+[2025-04-24 12:10:49] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34858
+[2025-04-24 12:10:49] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:49] [DEBUG] Handling client 127.0.0.1:34858
+[2025-04-24 12:10:49] [DEBUG] Error parsing request from 127.0.0.1:34858
+[2025-04-24 12:10:50] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:34864
+[2025-04-24 12:10:50] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34864
+[2025-04-24 12:10:50] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:50] [DEBUG] Handling client 127.0.0.1:34864
+[2025-04-24 12:10:50] [DEBUG] Parsed GET request for /app/
+[2025-04-24 12:10:50] [DEBUG] Error parsing request from 127.0.0.1:34864
+[2025-04-24 12:10:50] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:34876
+[2025-04-24 12:10:50] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34876
+[2025-04-24 12:10:50] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:50] [DEBUG] Handling client 127.0.0.1:34876
+[2025-04-24 12:10:50] [DEBUG] Error parsing request from 127.0.0.1:34876
+[2025-04-24 12:10:50] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:34884
+[2025-04-24 12:10:50] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34884
+[2025-04-24 12:10:50] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:50] [DEBUG] Handling client 127.0.0.1:34884
+[2025-04-24 12:10:50] [DEBUG] Parsed GET request for /app/css/style.css
+[2025-04-24 12:10:50] [DEBUG] Error parsing request from 127.0.0.1:34884
+[2025-04-24 12:10:50] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:34892
+[2025-04-24 12:10:50] [DEBUG] Task created and added to thread pool for client 127.0.0.1:34892
+[2025-04-24 12:10:50] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:10:50] [DEBUG] Handling client 127.0.0.1:34892
+[2025-04-24 12:10:50] [DEBUG] Error parsing request from 127.0.0.1:34892
+[2025-04-24 12:11:05] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:55976
+[2025-04-24 12:11:05] [DEBUG] Task created and added to thread pool for client 127.0.0.1:55976
+[2025-04-24 12:11:05] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:11:05] [DEBUG] Handling client 127.0.0.1:55976
+[2025-04-24 12:11:05] [DEBUG] Parsed GET request for /app/?
+[2025-04-24 12:11:05] [DEBUG] Error parsing request from 127.0.0.1:55976
+[2025-04-24 12:11:05] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:55990
+[2025-04-24 12:11:05] [DEBUG] Task created and added to thread pool for client 127.0.0.1:55990
+[2025-04-24 12:11:05] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:11:05] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:56006
+[2025-04-24 12:11:05] [DEBUG] Task created and added to thread pool for client 127.0.0.1:56006
+[2025-04-24 12:11:05] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 12:11:05] [DEBUG] Handling client 127.0.0.1:55990
+[2025-04-24 12:11:05] [DEBUG] Error parsing request from 127.0.0.1:55990
+[2025-04-24 12:11:05] [DEBUG] Handling client 127.0.0.1:56006
+[2025-04-24 12:11:05] [DEBUG] Error parsing request from 127.0.0.1:56006
+[2025-04-24 12:11:53] [INFO] Shutdown signal received, stopping server...
+[2025-04-24 12:11:53] [INFO] Thread pool destroyed
+[2025-04-24 16:15:18] [INFO] Thread pool created with 16 threads
+[2025-04-24 16:15:18] [DEBUG] Server socket created successfully with fd 4
+[2025-04-24 16:15:18] [DEBUG] Attempting to bind to 0.0.0.0:8080
+[2025-04-24 16:15:18] [DEBUG] Successfully bound to port 8080
+[2025-04-24 16:15:18] [DEBUG] Setting socket to listen mode with backlog 128
+[2025-04-24 16:15:18] [DEBUG] Socket in listen mode, ready to accept connections
+[2025-04-24 16:15:18] [INFO] Initializing database connection to localhost:5432/cserver
+[2025-04-24 16:15:18] [INFO] Initializing database connection pool
+[2025-04-24 16:15:18] [ERROR] Failed to connect to database: connection to server at "localhost" (::1), port 5432 failed: fe_sendauth: no password supplied
+
+[2025-04-24 16:15:18] [INFO] Cleaning up database connection pool
+[2025-04-24 16:15:18] [WARN] Failed to initialize database connection pool. Database features will be disabled.
+[2025-04-24 16:15:18] [INFO] Starting server on port 8080 with document root './www'
+[2025-04-24 16:15:18] [INFO] Server started on port 8080
+[2025-04-24 16:15:18] [DEBUG] Waiting for connections on socket 4
+[2025-04-24 16:15:18] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 16:15:31] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:39058
+[2025-04-24 16:15:31] [DEBUG] Task created and added to thread pool for client 127.0.0.1:39058
+[2025-04-24 16:15:31] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 16:15:31] [DEBUG] Handling client 127.0.0.1:39058
+[2025-04-24 16:15:31] [DEBUG] Found Accept-Encoding header: gzip, deflate, br, zstd
+[2025-04-24 16:15:31] [DEBUG] Parsed GET request for /app/ from 127.0.0.1
+[2025-04-24 16:15:31] [DEBUG] Error parsing request from 127.0.0.1:39058
+[2025-04-24 16:15:31] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:39062
+[2025-04-24 16:15:31] [DEBUG] Task created and added to thread pool for client 127.0.0.1:39062
+[2025-04-24 16:15:31] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 16:15:31] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:39076
+[2025-04-24 16:15:31] [DEBUG] Task created and added to thread pool for client 127.0.0.1:39076
+[2025-04-24 16:15:31] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 16:15:31] [DEBUG] Handling client 127.0.0.1:39062
+[2025-04-24 16:15:31] [DEBUG] Handling client 127.0.0.1:39076
+[2025-04-24 16:15:31] [DEBUG] Error parsing request from 127.0.0.1:39062
+[2025-04-24 16:15:31] [DEBUG] Error parsing request from 127.0.0.1:39076
+[2025-04-24 16:15:31] [INFO] New connection accepted: client_socket=7 from 127.0.0.1:39086
+[2025-04-24 16:15:31] [DEBUG] Task created and added to thread pool for client 127.0.0.1:39086
+[2025-04-24 16:15:31] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 16:15:31] [DEBUG] Handling client 127.0.0.1:39086
+[2025-04-24 16:15:31] [DEBUG] Found Accept-Encoding header: gzip, deflate, br, zstd
+[2025-04-24 16:15:31] [DEBUG] Parsed GET request for /app/css/style.css from 127.0.0.1
+[2025-04-24 16:15:31] [DEBUG] Error parsing request from 127.0.0.1:39086
+[2025-04-24 16:15:31] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:39090
+[2025-04-24 16:15:31] [DEBUG] Task created and added to thread pool for client 127.0.0.1:39090
+[2025-04-24 16:15:31] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 16:15:31] [DEBUG] Handling client 127.0.0.1:39090
+[2025-04-24 16:15:31] [DEBUG] Error parsing request from 127.0.0.1:39090
+[2025-04-24 16:15:31] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:39100
+[2025-04-24 16:15:31] [DEBUG] Task created and added to thread pool for client 127.0.0.1:39100
+[2025-04-24 16:15:31] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 16:15:31] [DEBUG] Handling client 127.0.0.1:39100
+[2025-04-24 16:15:31] [DEBUG] Error parsing request from 127.0.0.1:39100
+[2025-04-24 16:15:42] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:48380
+[2025-04-24 16:15:42] [DEBUG] Task created and added to thread pool for client 127.0.0.1:48380
+[2025-04-24 16:15:42] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 16:15:42] [DEBUG] Handling client 127.0.0.1:48380
+[2025-04-24 16:15:42] [DEBUG] Found Accept-Encoding header: gzip, deflate, br, zstd
+[2025-04-24 16:15:42] [DEBUG] Parsed GET request for /app/? from 127.0.0.1
+[2025-04-24 16:15:42] [DEBUG] Error parsing request from 127.0.0.1:48380
+[2025-04-24 16:15:42] [INFO] New connection accepted: client_socket=6 from 127.0.0.1:48386
+[2025-04-24 16:15:42] [DEBUG] Task created and added to thread pool for client 127.0.0.1:48386
+[2025-04-24 16:15:42] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 16:15:42] [INFO] New connection accepted: client_socket=5 from 127.0.0.1:48400
+[2025-04-24 16:15:42] [DEBUG] Task created and added to thread pool for client 127.0.0.1:48400
+[2025-04-24 16:15:42] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 16:15:42] [DEBUG] Handling client 127.0.0.1:48386
+[2025-04-24 16:15:42] [DEBUG] Error parsing request from 127.0.0.1:48386
+[2025-04-24 16:15:42] [DEBUG] Handling client 127.0.0.1:48400
+[2025-04-24 16:15:42] [DEBUG] Error parsing request from 127.0.0.1:48400
+[2025-04-24 16:15:42] [INFO] New connection accepted: client_socket=7 from 127.0.0.1:48408
+[2025-04-24 16:15:42] [DEBUG] Task created and added to thread pool for client 127.0.0.1:48408
+[2025-04-24 16:15:42] [DEBUG] Calling accept() to wait for a new connection...
+[2025-04-24 16:15:42] [DEBUG] Handling client 127.0.0.1:48408
+[2025-04-24 16:15:42] [DEBUG] Found Accept-Encoding header: gzip, deflate, br, zstd
+[2025-04-24 16:15:42] [DEBUG] Parsed GET request for /favicon.ico from 127.0.0.1
+[2025-04-24 16:15:42] [DEBUG] Error parsing request from 127.0.0.1:48408

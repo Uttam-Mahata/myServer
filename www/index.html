@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CServer - Production C Web Server</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+        h1 { color: #333; }
+        p { color: #666; }
+        .container { max-width: 800px; margin: 0 auto; }
+        .features { text-align: left; margin-top: 30px; }
+        .feature { margin-bottom: 15px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>CServer is running!</h1>
+        <p>This is a production-level C web server.</p>
+        <p>Server time: <span id="server-time"></span></p>
+        <div class="features">
+            <h2>Enabled Features:</h2>
+            <div class="feature">✅ HTTP Caching with ETags</div>
+            <div class="feature">❌ HTTPS Support (disabled)</div>
+            <div class="feature">❌ GZIP Compression (disabled)</div>
+            <div class="feature">❌ Request Rate Limiting (disabled)</div>
+            <div class="feature">✅ PostgreSQL Database Support</div>
+            <div class="feature">✅ RESTful API Support</div>
+        </div>
+        <div class="api-demo">
+            <h2>Task Manager API Demo</h2>
+            <p>Try the Task Manager API at <a href="/api/tasks">/api/tasks</a></p>
+        </div>
+    </div>
+    <script>
+        setInterval(function() {
+            document.getElementById('server-time').textContent = new Date().toLocaleString();
+        }, 1000);
+    </script>
+</body>
+</html>

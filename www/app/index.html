@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Manager - CServer Application</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Task Manager</h1>
+            <p>A simple task management application hosted on CServer</p>
+        </header>
+
+        <main>
+            <section class="task-form">
+                <h2>Add New Task</h2>
+                <form id="task-form">
+                    <div class="form-group">
+                        <label for="task-title">Task Title</label>
+                        <input type="text" id="task-title" placeholder="Enter task title" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="task-priority">Priority</label>
+                        <select id="task-priority">
+                            <option value="low">Low</option>
+                            <option value="medium" selected>Medium</option>
+                            <option value="high">High</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="task-date">Due Date</label>
+                        <input type="date" id="task-date">
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary">Add Task</button>
+                    </div>
+                </form>
+            </section>
+
+            <section class="task-list">
+                <h2>Your Tasks</h2>
+                <div class="filters">
+                    <button class="filter-btn 
+                    
+                    active" data-filter="all">All</button>
+                    <button class="filter-btn" data-filter="high">High Priority</button>
+                    <button class="filter-btn" data-filter="medium">Medium Priority</button>
+                    <button class="filter-btn" data-filter="low">Low Priority</button>
+                </div>
+                <ul id="tasks"></ul>
+            </section>
+        </main>
+
+        <footer>
+            <p>Powered by CServer - A Production-Level C Web Server</p>
+            <p>Server Time: <span id="server-time"></span></p>
+        </footer>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+
+</html>
